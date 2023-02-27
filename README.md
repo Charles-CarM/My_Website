@@ -4,7 +4,7 @@
 A static website developed entirely using HTML, CSS, and Gatsby JS.
 
 
-#### check it out [here](https://charles-carm.github.io/portfolio-site/)
+#### check it out [here](https://6371fe617145a97ed4d73a41--preeminent-florentine-ebb9fb.netlify.app/)
 
 
 ---
@@ -21,5 +21,5 @@ with it.
 
 
 ### Author
-* __Charles Lutz__ - *Full-Stack Software Developer* - [Personal Website](under construction) | [LinkedIn](https://www.linkedin.com/in/CharlesCarMichaelLutz)
+* __Charles Lutz__ - *Full-Stack Software Developer* - [Personal Website](https://6371fe617145a97ed4d73a41--preeminent-florentine-ebb9fb.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/CharlesCarMichaelLutz)
 
