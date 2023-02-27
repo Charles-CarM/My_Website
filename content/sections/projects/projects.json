@@ -8,7 +8,7 @@
       "image": {
         "src": "../../images/strwars.JPG",
         "alt": "Quick Setup",
-        "linkTo": "https://star-wars-explore-react.herokuapp.com/"
+        "linkTo": "https://star-wars-explore.onrender.com/"
       },
       "links": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "type": "external",
-          "url": "https://star-wars-explore-react.herokuapp.com/"
+          "url": "https://star-wars-explore.onrender.com/"
         }
       ]
     },
@@ -29,7 +29,7 @@
       "image": {
         "src": "../../images/expense.JPG",
         "alt": "Quick Setup",
-        "linkTo": "https://theincrediblejourney.herokuapp.com/"
+        "linkTo": "https://expense-tracker-38i7.onrender.com/"
       },
       "links": [
         {
@@ -38,7 +38,7 @@
         },
         {
           "type": "external",
-          "url": "https://theincrediblejourney.herokuapp.com/"
+          "url": "https://expense-tracker-38i7.onrender.com/"
         }
       ]
     },
