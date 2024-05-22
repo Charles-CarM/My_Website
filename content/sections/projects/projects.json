@@ -4,9 +4,9 @@
       "visible": true,
       "category": "React JS ",
       "title": "Star Wars Explore",
-    "description": "An application developed using React hooks and asynchronous JavaScript that gets data back from a REST API and populates Star Wars characters in a table.", 
+      "description": "An application developed using React hooks and asynchronous JavaScript that gets data back from a REST API and populates Star Wars characters in a table.",
       "image": {
-        "src": "../../images/strwars.JPG",
+        "src": "../../images/swapi.updated.PNG",
         "alt": "Quick Setup",
         "linkTo": "https://star-wars-explore.onrender.com/"
       },
@@ -25,7 +25,7 @@
       "visible": true,
       "category": "React JS",
       "title": "Expense Tracker",
-    "description": "An awesome Expense Tracker developed using the React library, Vanilla JavaScript, and CSS.",
+      "description": "An awesome Expense Tracker developed using the React library, Vanilla JavaScript, and CSS.",
       "image": {
         "src": "../../images/expense.JPG",
         "alt": "Quick Setup",
